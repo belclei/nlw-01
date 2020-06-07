@@ -26,15 +26,15 @@ A aplicação foi a "Ecoleta", que é uma plataforma que conecta pontos de colet
 
 #### Página Home Mobile
 
-[Home](./MOB_HOME.jpg)
+![Home](./MOB_HOME.jpg)
 
 #### Página Points (Para o usuário encontrar um ponto de coleta no mapa)
 
-[Points](./MOB_POINTS.jpg)
+![Points](./MOB_POINTS.jpg)
 
 #### Página Details (Para o usuário ver todos os detalhes de um ponto de coleta específicos)
 
-[Details](./MOB_DETAILS.jpg)
+![Details](./MOB_DETAILS.jpg)
 
 ## Orgulho
 
